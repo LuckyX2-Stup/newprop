@@ -334,7 +334,7 @@ body {
         </div>
         <div class="nav-buttons">
             <button class="button" onclick="showContent('vless')">View VLESS</button>
-            <button class="button" onclick="window.location.href='https://t.me/your_telegram_link'">BOT CF</button>
+            <button class="button" onclick="window.location.href='https://t.me/Stupidx2_Bot'">BOT CF</button>
             <button class="button" onclick="showContent('clash')">View Clash</button>
         </div>
 
